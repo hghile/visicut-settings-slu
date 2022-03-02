@@ -1,0 +1,9 @@
+<vectorProfile>
+  <DPI>1200.0</DPI>
+  <description>A new Laserprofile</description>
+  <name>mark</name>
+  <orderStrategy>NEAREST</orderStrategy>
+  <useOutline>false</useOutline>
+  <isCut>false</isCut>
+  <width>1.0</width>
+</vectorProfile>
