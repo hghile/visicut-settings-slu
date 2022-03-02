@@ -1,0 +1,32 @@
+<visicutPreferences>
+  <disableSandbox>false</disableSandbox>
+  <useFilenamesForJobs>false</useFilenamesForJobs>
+  <enableQRCodes>false</enableQRCodes>
+  <fastQRCodes>false</fastQRCodes>
+  <fabqrActive>false</fabqrActive>
+  <fabqrPrivateURL></fabqrPrivateURL>
+  <fabqrPublicURL></fabqrPublicURL>
+  <fabqrPrivateUser></fabqrPrivateUser>
+  <fabqrPrivatePassword></fabqrPrivatePassword>
+  <windowBounds>
+    <x>402</x>
+    <y>149</y>
+    <width>1893</width>
+    <height>999</height>
+  </windowBounds>
+  <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
+  <recentFiles>
+    <string>/tmp/ink_ext_XXXXXX.svgTT1U5Z.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svg7PZK5Z.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svgY7T54Z.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svg51VL5Z.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svgJ02I5Z.svg</string>
+  </recentFiles>
+  <lastMaterial>wood</lastMaterial>
+  <lastLaserDevice>mini</lastLaserDevice>
+  <availableImporters/>
+  <editSettingsBeforeExecuting>false</editSettingsBeforeExecuting>
+  <fabLabLocationFacebookId></fabLabLocationFacebookId>
+  <laserCutterTags></laserCutterTags>
+  <supportedExtensions></supportedExtensions>
+</visicutPreferences>
