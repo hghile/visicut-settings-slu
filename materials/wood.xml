@@ -1,0 +1,14 @@
+<material>
+  <description>generated from Lasercutter-Wiki page</description>
+  <thumbnailPath>wood.png</thumbnailPath>
+  <engraveColor>#ffcc00</engraveColor>
+  <cutColor>#00ffcc</cutColor>
+  <color>#ffffff</color>
+  <name>wood</name>
+  <materialThicknesses>
+    <float>2.7</float>
+    <float>3.0</float>
+    <float>5.3</float>
+    <float>6.0</float>
+  </materialThicknesses>
+</material>
