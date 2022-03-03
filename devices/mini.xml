@@ -2,10 +2,10 @@
 
 <laserDevice version="0">
   <originBottomLeft>false</originBottomLeft>
-  <jobSentText>Job was sent as '$jobname'
+  <jobSentText>Job was sent as $jobname
 Please:
 -Close the lid
--And press 'start' on the Lasercutter $name</jobSentText>
+-And press start on the Lasercutter $name</jobSentText>
   <jobPrefix>visicut </jobPrefix>
   <laserCutter class="de.thomas_oster.liblasercut.drivers.EpilogHelix">
     <hostname>100.85.235.49</hostname>
@@ -111,5 +111,7 @@ Please:
   <projectorTiming>0</projectorTiming>
   <projectorWidth>0</projectorWidth>
   <projectorHeight>0</projectorHeight>
+  <thumbnailPath>mini.png</thumbnailPath>
+  <description>epilog mini</description>
   <name>mini</name>
 </laserDevice>
