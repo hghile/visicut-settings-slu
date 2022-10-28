@@ -106,7 +106,7 @@ Please:
       <n>3</n>
     </homography>
   </cameraHomography>
-  <cameraURL>http://100.85.235.50:8080</cameraURL>
+  <cameraURL>http://100.85.235.41:8080</cameraURL>
   <cameraTiming>0</cameraTiming>
   <projectorTiming>0</projectorTiming>
   <projectorWidth>0</projectorWidth>
