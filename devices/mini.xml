@@ -8,7 +8,7 @@ Please:
 -And press start on the Lasercutter $name</jobSentText>
   <jobPrefix>visicut </jobPrefix>
   <laserCutter class="de.thomas_oster.liblasercut.drivers.EpilogHelix">
-    <hostname>100.85.235.49</hostname>
+    <hostname>100.85.235.34</hostname>
     <port>515</port>
     <autofocus>true</autofocus>
     <hideSoftwareFocus>true</hideSoftwareFocus>
@@ -106,7 +106,7 @@ Please:
       <n>3</n>
     </homography>
   </cameraHomography>
-  <cameraURL>http://100.85.235.41:8080</cameraURL>
+  <cameraURL>http://100.85.235.36:8080</cameraURL>
   <cameraTiming>0</cameraTiming>
   <projectorTiming>0</projectorTiming>
   <projectorWidth>0</projectorWidth>
